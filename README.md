@@ -28,5 +28,4 @@ I am provided with a dataset containing multiple tables related to an organizati
 - A store procedure for Top markets in each region.
 
 - A store procedure for Top Products in each division by sold quantity.
-)_
   
