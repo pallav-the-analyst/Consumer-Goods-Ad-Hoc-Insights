@@ -1,13 +1,13 @@
-# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=KlkfbDEjskb5&format=png&color=000000" width="35" /></a> Consumer Goods Ad Hoc Insights
+# Consumer Goods Ad Hoc Insights
 This is my ad-hoc project using MySQL on AtliQ Hardware 
 
-# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=FkqjAX6ZGe4B&format=png&color=000000" width="35" /></a> INTRODUCTION :
+# INTRODUCTION :
 AtliQ hardware is one of the Electronic hardware producers in india.
 
-# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9oTCQxbJ7BPy&format=png&color=000000" width="35" /></a> Problem Statement: 
+# Problem Statement: 
 I am provided with a dataset containing multiple tables related to an organization’s operations. My task is to write SQL queries to extract meaningful insights from the data based on specific business questions. The goal is to provide quick, actionable insights that help stakeholders make data-driven decisions.
 
-# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=zeuUPoSqsDd3&format=png&color=000000" width="35" /></a>  Requests:
+# Requests:
 
 - As a product owner, I want to generate a report of individual product sales (aggregated on a monthly basis at the product level) for Amazon India customers for FY=2021 so that I can track individual product sales.
   
