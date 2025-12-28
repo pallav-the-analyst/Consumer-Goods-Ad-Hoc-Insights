@@ -1,5 +1,5 @@
 # Consumer Goods Ad Hoc Insights
-This is my ad-hoc project using MySQL on AtliQ Hardware 
+This is my Ad-Hoc project using MySQL on AtliQ Hardware 
 
 # INTRODUCTION :
 AtliQ hardware is one of the Electronic hardware producers in india.
